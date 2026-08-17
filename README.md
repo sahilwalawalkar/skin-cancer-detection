@@ -137,7 +137,3 @@ Open either `.Rmd` file in RStudio and update its dataset paths before running o
 ## License
 
 No software or dataset license is currently provided. Unless a license is added, others should not assume they have permission to copy, modify, or redistribute the code or images.
-
-## Acknowledgments
-
-The 80/20 R Markdown file identifies **Piyush Kolte** as its author. Add course, institution, collaborators, dataset creators, and formal dataset citations as appropriate.
