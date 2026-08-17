@@ -1,5 +1,7 @@
 # Skin Cancer Detection with Classical Machine Learning
 
+**Author:** Sahil Walawalkar
+
 This project explores binary classification of skin-lesion images as **benign** or **malignant** using principal component analysis (PCA) and classical machine-learning models. It contains a balanced image dataset, a Python analysis exported from a notebook, and two earlier R Markdown experiments with different train/test splits.
 
 > **Important:** This is an educational data-mining project, not a medical device. Its predictions must not be used for diagnosis, treatment, or other clinical decisions.
